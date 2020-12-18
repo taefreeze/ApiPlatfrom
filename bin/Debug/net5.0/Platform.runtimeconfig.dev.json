@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\potae\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\potae\\.nuget\\packages"
+    ]
+  }
+}
